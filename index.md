@@ -32,19 +32,19 @@ Coming from a long lasting C++ programming career mainly in computer graphics an
 
 ## Experience
 
-`2011-Present`
+`November 2011 - Present`
 __Fraunhofer Austria Research GmbH | Graz, Austria__
 
  - *Senior Software Engineer / Web Developer*
  - Software Design & Engineering; Web Development; Project management (work package lead in EU project); Mentoring; DevOps
 
- `2011`
+ `April 2011 - October 2011`
  __Fraunhofer IDM@NTU | Singapore__
 
   - *Software Engineer / Research Assistant*
   - Integration of a scripting language into a C++ 3D graphics framework (OpenSG); Virtual Reality, Android multi-touch development
 
-  `2011`
+  `March 2011 - January 2011`
   __Fraunhofer Austria Research GmbH | Graz, Austria__
 
    - *Junior Software Engineer / Research Assistant*
@@ -72,8 +72,7 @@ __Technical University of Graz__
 
 DURAARK is a project funded by the European Union to support the long-term archival of architectural data. We provide a microservice-based system for the processing and long-term archival of architectural data via a REST-API and a graphical web application. See the [project web page](http://duraark.eu) for more information, the [demo page](http://workbench.duraark.eu) for the web application and our [Github page](https://github.com/duraark/duraark-system) for the source code.
 
-*I was leading the work package responsible for integrating the software prototypes delivered by our six project partners into a coherent web application and REST-API. The main technologies used were NodeJS/SailsJS (microservices), EmberJS, and Docker.*
-
+I was leading the work package responsible for integrating the software prototypes delivered by our six project partners into a coherent web application and REST-API. The main technologies used were NodeJS/SailsJS (microservices), EmberJS, and Docker.
 
 ### [V-MANIP (open source)](http://demo.v-manip.eox.at/about.html)
 
@@ -90,7 +89,7 @@ The MOVING project developed an immersive virtual reality environment within a [
 ### [mPed+](http://www.fraunhofer.at/en/visual-computing/projects/a_VisualDecisionSupport/mped.html)
 
 In mPed+ we developed a system to visualize pedestrian flows within subway stations. The goal was to simulate default and emergency events in a subway station to help building designers to create the station in an optimized way. A in-depth description of the project can be found [here](http://www.fraunhofer.at/en/visual-computing/projects/a_VisualDecisionSupport/mped.html).
-  
+
 *I was developing and integrating parametric models (e.g., escalators, train tracks) based on the [Generative Modeling Language (GML)](http://www.generative-modeling.org/). The main technologies used were C++, GML and CMake.*
 
 ## Personal Interests
