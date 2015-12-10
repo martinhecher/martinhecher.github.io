@@ -152,9 +152,9 @@ h2:before {
     content: "";
     display: block;
     height: 1px;
-    width: 100vw;
+    width: 95vw;
     margin-bottom: 15px;
-    background: #aaa;
+    background: #ddd;
 }
 
 h3 {

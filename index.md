@@ -50,12 +50,24 @@ __Fraunhofer Austria Research GmbH | Graz, Austria__
    - *Junior Software Engineer / Research Assistant*
    - Software development for a multi-touch authoring software for exhibition planning; Java; Eclipse RCP
 
+   `November 2009 - Dezember 2011`
+   __Institute of Computer Graphics and Knowledge Visualization | Graz, Austria__
+
+  - *Software Developer*
+  - [OpenSG](https://en.wikipedia.org/wiki/OpenSG), [GML](http://www.generative-modeling.org/), CMake
+
+   `October 2003 - October 2009`
+   __Institute of Engineering and Business Informatics | Graz, Austria__
+
+  - *IT Administrator*
+  - Linux, Windows Server, OpenVPN
+
 ## Education
 
   `2001 - 2011`
 __Technical University of Graz__
 
-- Master of Science (M.Sc.), Computer Graphics
+- Master of Science (M.Sc.); Field of Study: Telematics, Focus: Computer Graphics
 
 ## Technical skills
 
@@ -72,7 +84,7 @@ __Technical University of Graz__
 
 DURAARK is a project funded by the European Union to support the long-term archival of architectural data. We provide a microservice-based system for the processing and long-term archival of architectural data via a REST-API and a graphical web application. See the [project web page](http://duraark.eu) for more information, the [demo page](http://workbench.duraark.eu) for the web application and our [Github page](https://github.com/duraark/duraark-system) for the source code.
 
-I was leading the work package responsible for integrating the software prototypes delivered by our six project partners into a coherent web application and REST-API. The main technologies used were NodeJS/SailsJS (microservices), EmberJS, and Docker.
+*I was leading the work package responsible for integrating the software prototypes delivered by our six project partners into a coherent web application and REST-API. The main technologies used were NodeJS/SailsJS (microservices), EmberJS, and Docker.*
 
 ### [V-MANIP (open source)](http://demo.v-manip.eox.at/about.html)
 
