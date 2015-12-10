@@ -44,7 +44,7 @@ __Fraunhofer Austria Research GmbH | Graz, Austria__
   - *Software Engineer / Research Assistant*
   - Integration of a scripting language into a C++ 3D graphics framework (OpenSG); Virtual Reality, Android multi-touch development
 
-  `March 2011 - January 2011`
+  `January 2011 - March 2011`
   __Fraunhofer Austria Research GmbH | Graz, Austria__
 
    - *Junior Software Engineer / Research Assistant*
