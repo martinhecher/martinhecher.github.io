@@ -24,89 +24,90 @@ Web Developer in particular, Software Engineer in general.
 
 ## Currently
 
-Fraunhofer Austria Research GmbH, Austria
+Freelancing; available for hire
 
 ## Summary
 
-Coming from a long lasting C++ programming career mainly in computer graphics and virtual reality applications my main focus now lies in the management, design and development of full-stack web applications. I'm interested in creating maintainable products and have a strong sense for tooling. Mentoring and consulting play an important role in my daily work.
+I am a passionate application and API architect and developer. In the last years I have been working in cross-functional teams on all levels, from management positions to software design and development work. I strive to create maintainable products and have a strong sense for tooling and automation. The mentoring of junior developers is also an important part of my work.
 
 ## Experience
 
-`November 2011 - Present`
+`November 2011 - December 2015`
 __Fraunhofer Austria Research GmbH | Graz, Austria__
 
- - *Senior Software Engineer / Web Developer*
- - Software Design & Engineering; Web Development; Project management (work package lead in EU project); Mentoring; DevOps
+ - *Senior Software Engineer / Research Assistant*
+ - Software Architecture & Development; Web Development; Project management (work package lead in EU project); Mentoring; DevOps
 
  `April 2011 - October 2011`
  __Fraunhofer IDM@NTU | Singapore__
 
-  - *Software Engineer / Research Assistant*
-  - Integration of a scripting language into a C++ 3D graphics framework (OpenSG); Virtual Reality, Android multi-touch development
+  - *Mid-level Software Engineer / Research Assistant*
+  - Virtual Reality application development; C++, Javascript, Android development
 
   `January 2011 - March 2011`
   __Fraunhofer Austria Research GmbH | Graz, Austria__
 
-   - *Junior Software Engineer / Research Assistant*
-   - Software development for a multi-touch authoring software for exhibition planning; Java; Eclipse RCP
+   - *Junior Junior Software Engineer / Research Assistant*
+   - Software development for multi-touch applications; Java; Eclipse RCP
 
    `November 2009 - Dezember 2011`
    __Institute of Computer Graphics and Knowledge Visualization | Graz, Austria__
 
-  - *Software Developer*
-  - [OpenSG](https://en.wikipedia.org/wiki/OpenSG), [GML](http://www.generative-modeling.org/), CMake
+  - *Junior Software Developer*
+  - [OpenSG](https://en.wikipedia.org/wiki/OpenSG) application development, [GML](http://www.generative-modeling.org/) application development, C++
 
    `October 2003 - October 2009`
    __Institute of Engineering and Business Informatics | Graz, Austria__
 
   - *IT Administrator*
-  - Linux, Windows Server, OpenVPN
+  - Linux, Windows Server, Scripting
 
 ## Education
 
   `2001 - 2011`
 __Technical University of Graz__
 
-- Master of Science (M.Sc.); Field of Study: Telematics, Focus: Computer Graphics
+- Master of Science (M.Sc.); Bachelor of Science (B.Sc.)
+- *Field of Study:* Telematics, *Focus:* Computer Graphics
 
 ## Technical skills
 
-* Full-stack Javascript
-* NodeJS
-* EmberJS
-* Aurelia
-* Docker
-* Tooling
+* ***Backend Javascript development:*** NodeJS, SailsJS, Express
+* ***Frontend Javascript development:*** Ember.js, Aurelia, Backbone.js
+* ***Tooling:*** Gulp, Grunt, Yeoman, CMake
+* ***DevOps:*** Docker
+* ***Proficient in*** Javascript (ES5, ES6/ES2015), C++
+* ***Knowledge of*** Python, Java, Shell scripting
 
 ## Projects
 
-### [DURAARK (open source)](http://duraark.eu)
+### [DURAARK](http://duraark.eu), [(open source)](http://github.com/DURAARK)
 
-DURAARK is a project funded by the European Union to support the long-term archival of architectural data. We provide a microservice-based system for the processing and long-term archival of architectural data via a REST-API and a graphical web application. See the [project web page](http://duraark.eu) for more information, the [demo page](http://workbench.duraark.eu) for the web application and our [Github page](https://github.com/duraark/duraark-system) for the source code.
+DURAARK is a project funded by the European Union to support the long-term archival of architectural data. We provide a microservice-based system for the processing and long-term archival of architectural data via REST-APIs and a graphical web application (demonstrator). See the [project web page](http://duraark.eu) for more information, the [demo page](http://workbench.duraark.eu) for the demonstrator and our [Github page](https://github.com/duraark/duraark-system) for the source code.
 
-*I was leading the work package responsible for integrating the software prototypes delivered by our six project partners into a coherent web application and REST-API. The main technologies used were NodeJS/SailsJS (microservices), EmberJS, and Docker.*
+*I was leading the work package responsible for integrating the software prototypes delivered by six project partners into a coherent web application and REST-API layer. Software Architecture and reusable and maintainable component/API design were the main aspects of the work. The main technologies used were NodeJS/SailsJS (backend), EmberJS (frontend), and Docker (devops).*
 
-### [V-MANIP (open source)](http://demo.v-manip.eox.at/about.html)
+### [V-MANIP](http://demo.v-manip.eox.at/about.html), [(open source)](http://github.com/v-manip)
 
-V-MANIP was a project funded by the European Space Agency (ESA). We developed a multi-dimensional web application for earth observation data collected by ESA satellites. See the [demo page](http://demo.v-manip.eox.at) for the resulting web application and the [Github page](https://github.com/v-manip/WebClient-Framework) for the source code.
+V-MANIP was a project funded by the European Space Agency (ESA). We developed a web application for searching earth observation data collected by ESA satellites. The project provides multiple 2D and 3D viewer for analyzing earth observation by data scientists. See the [demo page](http://demo.v-manip.eox.at) for the resulting web application and the [Github page](https://github.com/v-manip/WebClient-Framework) for the source code.
 
-*I was designing and developing the application framework and developed two 3D viewer components (terrain viewer, virtual globe viewer). The main technologies used were BackboneJS, Python, X3DOM/WebGL, D3, and Vagrant.*
+*I was co-designing and developing the application framework, as well as the 3D viewer components (terrain viewer, virtual globe viewer). Focus of the work were a modular software design and the utilization of 3D web technologies. The main technologies used were BackboneJS/X3DOM/WebGL/D3 (frontend), Python (backend), and Vagrant (devops).*
 
 ### [MOVING](http://www.fraunhofer.at/en/visual-computing/projects/b_VirtualEngineering/moving.html)
 
-The MOVING project developed an immersive virtual reality environment within a [CAVE](https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment) to test pedestrian guidance systems in an realistic virtual environment. Testing the guidance system directly within a realistic 3D model (i.e. the model of the new Vienna main train station) helps to optimize the system at low cost already in the planning phase. A in-depth description of the project can be found [here](http://www.fraunhofer.at/en/visual-computing/projects/b_VirtualEngineering/moving.html).
+The MOVING project developed an immersive virtual reality environment within a [CAVE](https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment) to test pedestrian guidance systems in an realistic virtual environment. Testing the guidance system directly within a realistic 3D model (i.e. the model of the new Vienna main train station) helped to optimize the system at low cost already in the planning phase. A in-depth description of the project can be found [here](http://www.fraunhofer.at/en/visual-computing/projects/b_VirtualEngineering/moving.html).
 
-*I was designing and developing a graphics engine for clustered rendering of 3D stereo scenes and actors. The main technologies used were C++, [OpenSG](https://en.wikipedia.org/wiki/OpenSG) and CMake.*
+*I was designing and developing a graphics engine for clustered rendering of 3D stereo scenes and actors. The main technologies used were C++, [OpenSG](https://en.wikipedia.org/wiki/OpenSG) and CMake for reproducable development environments.*
 
 ### [mPed+](http://www.fraunhofer.at/en/visual-computing/projects/a_VisualDecisionSupport/mped.html)
 
-In mPed+ we developed a system to visualize pedestrian flows within subway stations. The goal was to simulate default and emergency events in a subway station to help building designers to create the station in an optimized way. A in-depth description of the project can be found [here](http://www.fraunhofer.at/en/visual-computing/projects/a_VisualDecisionSupport/mped.html).
+In mPed+ a system to visualize pedestrian flows within subway stations was developed. The goal was to simulate default and emergency events in a subway station to help building designers to create the station in an optimized way. A in-depth description of the project can be found [here](http://www.fraunhofer.at/en/visual-computing/projects/a_VisualDecisionSupport/mped.html).
 
 *I was developing and integrating parametric models (e.g., escalators, train tracks) based on the [Generative Modeling Language (GML)](http://www.generative-modeling.org/). The main technologies used were C++, GML and CMake.*
 
 ## Personal Interests
 
-To keep my work and life in balance I enjoy rock climbing and like to photograph.
+I enjoy rock climbing and like to photograph.
 
 <!-- ## Presentations
 
